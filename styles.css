@@ -1,0 +1,34 @@
+
+  /* Styling for resizable elements */
+  .resizable-element {
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    margin: 20px;
+    display: inline-block;
+    padding: 10px;
+  }
+
+  /* Styling for selectable elements */
+  .selectable-element {
+    width: 150px;
+    height: 150px;
+    background-color: lightgreen;
+    border: 1px solid #ccc;
+    margin: 20px;
+    display: inline-block;
+    padding: 10px;
+  }
+
+  /* Styling for slider */
+  #slider {
+    width: 200px;
+    margin: 20px;
+  }
+
+  /* Styling for text container */
+  #text-container {
+    font-size: 16px;
+    margin: 20px;
+  }
